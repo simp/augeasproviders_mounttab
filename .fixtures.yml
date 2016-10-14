@@ -1,7 +1,8 @@
+---
 fixtures:
   repositories:
-    "augeasproviders_core":
-      repo: "git://github.com/hercules-team/augeasproviders_core.git"
+    augeasproviders_core:
+      repo: git://github.com/hercules-team/augeasproviders_core.git
     mount_providers:
       repo: git://github.com/puppetlabs/puppetlabs-mount_providers.git
       ref: 0.0.2
